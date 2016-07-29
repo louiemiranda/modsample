@@ -1,0 +1,16 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Shapes\\": "src/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/louiemiranda/modsample"
+    }
+  ],
+  "require": {
+    "symfony/yaml": "2.6.4"
+  }
+}
